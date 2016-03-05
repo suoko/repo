@@ -219,8 +219,8 @@ footer{text-align:center;}
 	position:absolute;
 	top:0; left:0;
 }
-.info a:before,.info span:before,.info .span:before{background:url('../images/info.png') no-repeat;}
-.home a:before,.home span:before,.home .span:before{background:url('../images/home.png') no-repeat;}
+.info a:before,.info span:before,.info .span:before{background:url('https://raw.githubusercontent.com/suoko/repo/master/atl_32.png') no-repeat;}
+.home a:before,.home span:before,.home .span:before{background:url('https://raw.githubusercontent.com/suoko/repo/master/sp_32.png') no-repeat;}
 .gear a:before,.gear span:before,.gear .span:before{background:url('../images/gear.png') no-repeat;}
 .bubble a:before,.bubble span:before,.bubble .span:before{background:url('../images/bubble.png') no-repeat;}
 .add a:before,.add span:before,.add .span:before{background:url('../images/add.png') no-repeat;}
